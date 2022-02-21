@@ -1,6 +1,9 @@
 # first-selenium-project
 
-<span><h2>Подготовка окружения</h2>
+
+<span>
+<h2 style=color:#000 align=center >Подготовка окружения</h2> 
+ <img src="https://avatars.mds.yandex.net/i?id=6fe87387809f66c5068829163ca17a29-4406655-images-thumbs&n=13" alt="selenium" align="left" width="130" margin="0">
 
 <p>В этом модуле мы создадим с нуля полноценный тестовый проект, который будет являться вашим финальным заданием. Для этого будем использовать популярные в индустрии инструменты&nbsp;Git и GitHub,&nbsp;с которыми в общих чертах мы познакомились в предыдущем модуле.&nbsp;</p>
 
