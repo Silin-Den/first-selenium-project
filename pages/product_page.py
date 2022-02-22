@@ -42,5 +42,5 @@ class ProductPage(BasePage):
         print('Your code: Congratulations! Success message presented! --> ')
         
     def success_message_should_disappear(self):
-        assert True
+        assert False
         print('Your code: Congratulations! Success message disappeared! --> ')
